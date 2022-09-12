@@ -1,0 +1,40 @@
+p {
+    text-align: center;
+    color: white;
+    border: 2px solid #394181;
+    background-color: darkolivegreen;
+
+    min-height: 50px;
+    max-height: 150px;
+    overflow: auto;
+    min-width: 500px;
+	max-width: 650px;
+    width: 600px;
+
+    padding: 10px;
+    border: 2px solid #0088dd;
+    margin: 3px auto 3px auto;
+    display: block;
+    visibility:inherit;
+    border-radius: 5px;
+}
+
+h2 {
+    color: black;
+    text-transform: capitalize;
+    line-height: 65%;
+    text-shadow: lightblue;
+    font-size: 115%;
+}
+
+a:link{
+    color: black;
+}
+
+a:hover{
+    color: green;
+}
+
+a:visited{
+    color: green;
+}
